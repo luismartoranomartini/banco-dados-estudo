@@ -1,0 +1,1 @@
+select * from aluno where nome like 'j__é';

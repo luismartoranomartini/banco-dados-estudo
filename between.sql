@@ -1,0 +1,1 @@
+select * from aluno where idade between 30 and 60 and sexo = 'M';
