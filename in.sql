@@ -1,1 +1,0 @@
-select * from aluno where nome not in('José', 'João');
