@@ -1,0 +1,1 @@
+ALTER TABLE nome_da_tabela RENAME COLUMN nome_antigo TO nome_novo;
